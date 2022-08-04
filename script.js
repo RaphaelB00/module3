@@ -38,7 +38,7 @@ function generatePassword() {
   var userWantsLowercase = window.confirm("Would you like lowercase letters?")
   var userWantsUppercase = window.confirm("Would you like uppercase letters?")
 
- // List of Possible Password Outcomes if User selects "Okay" for the given variable // 
+ // List of Possible Password Outcomes if User selects "OK" for the given variable // 
   var numberlist = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
   var symbollist = ["!", "@", "#", "$", "%", "&", "*"]
   var lowercaselist = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"]
@@ -67,7 +67,6 @@ function generatePassword() {
     optionsCart.push(uppercaselist)
   }
 
- // If User does not select any variables - Automatcally creates all lowercase password //
   if (optionsCart.length === 0) {
     optionsCart.push(lowercaseList)
   }
