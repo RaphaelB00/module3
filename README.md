@@ -1,4 +1,8 @@
 # module3
+
+# Description
+Given the User Story and Acceptance Criteria, had to adjust JavaScript code for a Random Password Generator to meet the requirements.
+
 # User Story
 AS AN employee with access to sensitive data
 I WANT to randomly generate a password that meets certain criteria
@@ -23,3 +27,6 @@ THEN the password is either displayed in an alert or written to the page
 
 # The Process
 Added prompts for user, variables (numbers, symbols, lowercase, uppercase), random generator for user's desired variables, and ensured code worked properly
+
+# Image of Project
+<img width="1396" alt="Screen Shot 2022-08-04 at 7 31 50 PM" src="https://user-images.githubusercontent.com/109770676/182972364-b7ccaf26-63bd-4115-bd59-cbbe44b93a88.png">
