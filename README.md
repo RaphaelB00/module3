@@ -28,5 +28,8 @@ THEN the password is either displayed in an alert or written to the page
 # The Process
 Added prompts for user, variables (numbers, symbols, lowercase, uppercase), random generator for user's desired variables, and ensured code worked properly
 
+# Check it Out!
+https://raphaelb00.github.io/module3/
+
 # Image of Project
 <img width="1396" alt="Screen Shot 2022-08-04 at 7 31 50 PM" src="https://user-images.githubusercontent.com/109770676/182972364-b7ccaf26-63bd-4115-bd59-cbbe44b93a88.png">
